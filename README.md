@@ -1,8 +1,5 @@
 # Software-Project
 
-Some description!
+This is our software eng project this semester, 
+make sure to carefully read through any documents and comments before chnaging 
 
-## Subheader
-
-
-Watch tutorial on Youtube.
